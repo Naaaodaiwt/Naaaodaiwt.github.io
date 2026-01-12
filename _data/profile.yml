@@ -25,7 +25,7 @@ short_bio: >-
     Welcome to my homepage!
   </p>
   <p>
-    I am a fourth-year undergraduate student and will receive my Bachelor’s degree in Information and Computing Science from the School of Mathematics in June 2026.
+    I am a fourth-year undergraduate student and will receive my Bachelor’s degree in Information and Computing Science from the School of Mathematics, Jilin University in June 2026.
     In Fall 2026 I will begin my Ph.D. studies in Applied and Computational Mathematics at the Hong Kong University of Science and Technology, 
     supervised by Prof. <a href="https://www.math.hkust.edu.hk/~jfcai/" target="_blank">Jian-Feng Cai</a>. 
     During my undergraduate studies I conducted research under the supervision of Prof. <a href="http://math.jlu.edu.cn/info/1061/14103.htm" target="_blank">Jiwei Jia</a>.
@@ -46,11 +46,11 @@ education:
   position: >- 
     Department of Mathematics <br/>
     Ph.D. Student (Supervisor: <a href="https://www.math.hkust.edu.hk/~jfcai/" target="_blank">Jian-Feng CAI</a>)
-  date: Sep. 2026 - present
+  date: Expected to begin from September 2026
 - name: Jilin University
   logo: /assets/images/badges/Jlu.jpg
   position: B.S. in Mathematics
-  date: Sep. 2022 - Jul. 2026
+  date: Sep. 2022 - Jul. 2026(Expected)
 
 experience:
  - name: The Hong Kong University of Science and Technology
