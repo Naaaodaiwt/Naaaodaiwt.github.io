@@ -49,7 +49,7 @@ education:
   date: Expected to begin from September 2026
 - name: Jilin University
   logo: /assets/images/badges/Jlu.jpg
-  position: B.S. in Mathematics (GPA: 3.84/4.0, Rank: 3/79)
+  position: "B.S. in Mathematics (GPA: 3.84/4.0, Rank: 3/79)"
   date: Sep. 2022 - Jul. 2026(Expected)
 
 experience:
