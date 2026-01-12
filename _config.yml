@@ -33,7 +33,11 @@ plugins:
 #   - vendor/ruby/
 
 # timezone: Asia/Shanghai
-
+title: Wen-Jie WEI's Homepage
+author: Wen-Jie WEI
+email: wei09210629@163.com
+url: "https://Wen-JieWEI.github.io"
+baseurl: ""
 collections:
   - publications
   - news
