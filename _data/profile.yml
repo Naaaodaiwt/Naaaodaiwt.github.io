@@ -36,13 +36,13 @@ portrait_caption: >-
 
 education:
 - name: The Hong Kong University of Science and Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/hkust.jpg
   position: >- 
     Department of Mathematics <br/> (Supervisor: Jian-Feng CAI)
     Ph.D. Student
   date: Sep. 2026 - present
 - name: Jilin University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Jlu.jpg
   position: B.S. in Mathematics
   date: Sep. 2022 - Jul. 2026
 
