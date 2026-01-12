@@ -49,13 +49,17 @@ education:
   date: Expected to begin from Sep. 2026
 - name: Jilin University
   logo: /assets/images/badges/Jlu.jpg
-  position: "B.S. in Mathematics (GPA: 3.84/4.0, Rank: 3/79)"
+  position: >-
+    "School of Mathematics <br/>
+     B.S. in Mathematics (GPA: 3.84/4.0, Rank: 3/79)"
   date: Sep. 2022 - Jul. 2026(Expected)
 
 experience:
  - name: The Hong Kong University of Science and Technology
    logo: /assets/images/badges/hkust.jpg
-   position: Visiting Student, Summer Research Program
+   position: >- 
+     Department of Mathematics <br/>
+     Visiting Student, Summer Research Program
    date: Jul. 02, 2025 - Aug. 06, 2025
 
 awards:
