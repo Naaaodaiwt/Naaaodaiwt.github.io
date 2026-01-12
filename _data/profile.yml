@@ -1,6 +1,6 @@
 primary_name: "Wen-Jie"
 secondary_name: "WEI"
-navbar_name: "Wen-Jie WEI"
+navbar_name: "Wen-Jie WEI 魏文杰"
 
 #positions:
 #- name: Title or Position
@@ -38,8 +38,8 @@ education:
 - name: The Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust.jpg
   position: >- 
-    Department of Mathematics <br/> (Supervisor: Jian-Feng CAI)
-    Ph.D. Student
+    Department of Mathematics <br/>
+    Ph.D. Student (Supervisor: <a href="https://www.math.hkust.edu.hk/~jfcai/" target="_blank">Jian-Feng CAI</a>)
   date: Sep. 2026 - present
 - name: Jilin University
   logo: /assets/images/badges/Jlu.jpg
@@ -53,7 +53,7 @@ experience:
    date: Jul. 02, 2025 - Aug. 06, 2025
 
 awards:
-- name: National Scholarship * 2 
+- name: <strong>National Scholarship</strong>  * 2 
   date: Dec. 2025, Dec. 2024
 - name: SAMSUNG Scholarship (Only 11 selected university-wide) 
   date: Apr. 2025
