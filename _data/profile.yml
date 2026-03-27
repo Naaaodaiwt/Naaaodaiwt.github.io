@@ -60,10 +60,15 @@ experience:
    position: >- 
      Department of Mathematics <br/>
      Visiting Student, Summer Research Program
-     Visiting Student, Early Admission Scheme
    date: >- 
      Jul. 2025 - Aug. 2025
-     Apr. 2026 - Jun. 2026
+ - name: The Hong Kong University of Science and Technology
+   logo: /assets/images/badges/hkust.jpg
+   position: >- 
+     Department of Mathematics <br/>
+     Visiting Student, Early Admission Scheme
+   date: >- 
+     Mar. 2026 - Jun. 2026
 
 awards:
 - name: <strong>National Scholarship * 2 </strong>
