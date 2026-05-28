@@ -9,7 +9,7 @@ navbar_name: "Wenjie WEI 魏文杰"
 
 
 email: "wei09210629@163.com"
-cv_link: "assets/WEIWENJIE_CV.pdf"
+# cv_link: "assets/WEIWENJIE_CV.pdf"
 #gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Naaaodaiwt
 #twitter: your_twitter_id  # Do not include the '@' symbol
@@ -28,7 +28,7 @@ short_bio: >-
     I am a fourth-year undergraduate student and will receive my Bachelor’s degree in Information and Computing Science from the School of Mathematics, Jilin University in June 2026.
     In Fall 2026 I will begin my Ph.D. studies in Applied and Computational Mathematics at the Hong Kong University of Science and Technology, 
     supervised by Prof. <a href="https://www.math.hkust.edu.hk/~jfcai/" target="_blank">Jian-Feng CAI</a>. 
-    During my undergraduate studies I conducted research under the supervision of Prof. <a href="http://math.jlu.edu.cn/info/1061/14103.htm" target="_blank">Jiwei JIA</a>.
+    During my undergraduate studies, I conducted research under the supervision of Prof. <a href="http://math.jlu.edu.cn/info/1061/14103.htm" target="_blank">Jiwei JIA</a>.
   </p>
   <p>
     My research interests are Optimization, Machine Learning, Artificial Intelligence, and Data Analysis, with a particular focus on the intersection of mathematics and AI.
@@ -71,15 +71,17 @@ experience:
      Mar. 2026 - Jun. 2026
 
 awards:
+- name: Outstanding Graduate of Jilin University
+  date: Mar. 2026
 - name: <strong>National Scholarship * 2 </strong>
   date: Dec. 2025, Dec. 2024
 - name: SAMSUNG Scholarship (Only 11 selected university-wide) 
   date: Apr. 2025
 - name: Provincial 1st Prize in China Undergraduate Mathematical Contest in Modeling * 2
   date: Dec. 2023, Dec. 2024
-- name: The First Class Scholarship of Jilin University 
-  date: Dec. 2023
-- name: University Excellent Student Leader of Jilin University * 3
-  date: Dec. 2023, Dec. 2024, Dec. 2025
-- name: University Excellent Student of Jilin University * 2
-  date: Dec. 2024, Dec. 2025
+- name: The First Class Scholarship of Jilin University * 2
+  date: Dec. 2023, Mar. 2026
+- name: University Excellent Student Leader of Jilin University * 4
+  date: Dec. 2023, Dec. 2024, Dec. 2025, Mar. 2026
+- name: University Excellent Student of Jilin University * 3
+  date: Dec. 2024, Dec. 2025, Mar. 2026
