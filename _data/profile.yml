@@ -2,10 +2,10 @@ primary_name: "Wenjie"
 secondary_name: "WEI"
 navbar_name: "Wenjie WEI 魏文杰"
 
-#positions:
-#- name: Title or Position
-#- name: Affiliation Name
-#  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+positions:
+- name: PhD Student
+- name: Department of Mathematics, HKUST
+ logo: /assets/images/badges/hkust.jpg  # Logo is optional
 
 
 email: "wei09210629@163.com"
