@@ -9,6 +9,7 @@ navbar_name: "Rico Wenjie WEI 魏文杰"
 
 
 email: "wei09210629@163.com"
+email: "wweias@connect.ust.hk"
 # cv_link: "assets/WEIWENJIE_CV.pdf"
 #gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Naaaodaiwt
@@ -30,7 +31,7 @@ short_bio: >-
     During my undergraduate studies, I conducted research under the supervision of Prof. <a href="http://math.jlu.edu.cn/info/1061/14103.htm" target="_blank">Jiwei JIA</a>.
   </p>
   <p>
-    My research interests are Optimization, Machine Learning, Artificial Intelligence, and Data Science, with a particular focus on the intersection of mathematics and AI.
+    My research interests are Optimization, Machine Learning, Artificial Intelligence and Data Science, with a particular focus on the intersection of mathematics and AI.
     I am currently exploring <strong>machine learning approaches to discrete optimization problems, emphasizing theory and applications</strong>.
     If you are interested in these areas, please feel free to contact me.
   </p>
